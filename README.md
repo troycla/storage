@@ -6,5 +6,4 @@ Content |
 Download's 📥 |
 Image's 🌃 | 
 ---
-* * *
-___
+
