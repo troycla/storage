@@ -5,5 +5,7 @@ Content |
  ------------ |
 Download's 📥 |
 Image's 🌃 | 
+Game's 🎮 |
+HTML5 💻 |
 ---
 
